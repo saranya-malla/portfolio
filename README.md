@@ -8,7 +8,7 @@ This portfolio showcases my skills, internships, projects, certifications, and a
 
 Visit my portfolio here:
 
-[Portfolio Website](YOUR_PORTFOLIO_LINK)
+[Portfolio Website](https://saranya-malla.github.io/portfolio/)
 
 ---
 
